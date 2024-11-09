@@ -1,2 +1,1 @@
 # steganography_ferramentas_computacionais
-# steganography_ferramentas_computacionais
